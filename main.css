@@ -1,4 +1,5 @@
 header{
     height: 300px;
-    background: pink;
+    background-image: url(./images/plane.jpg);
+    background-size: cover;
 }
